@@ -4,6 +4,24 @@
       "title": "aaaa",
       "description": "aaaaa",
       "id": 1
+    },
+    {
+      "title": "new streams",
+      "description": "this was made by me",
+      "userId": "117598146012947007613",
+      "id": 2
+    },
+    {
+      "title": "null",
+      "description": "null",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "unexpected behavior",
+      "description": "didn't expect that",
+      "userId": "117598146012947007613",
+      "id": 4
     }
   ]
 }
